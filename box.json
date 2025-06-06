@@ -1,0 +1,8 @@
+{
+    "dependencies":{
+        "spreadsheet-cfml":"^5.1.0"
+    },
+    "installPaths":{
+        "spreadsheet-cfml":"modules/spreadsheet-cfml/"
+    }
+}
